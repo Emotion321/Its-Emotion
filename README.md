@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Laziz
+### Hey 👋, my name is Laziz
 #### I do content on Development.
 ![I do content on Development.](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1-1024x512.png)
 
